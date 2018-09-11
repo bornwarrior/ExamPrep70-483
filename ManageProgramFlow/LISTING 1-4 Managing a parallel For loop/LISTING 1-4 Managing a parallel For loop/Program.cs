@@ -17,7 +17,7 @@ namespace LISTING_1_4_Managing_a_parallel_For_loop
             (int i, ParallelLoopState loopState) =>
             {
                 if (i == 200)
-                    loopState.Stop();
+                    loopState.Stop(); //break allow previous iterations to complete
 
                 WorkOnItem(items[i]);
             });
