@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 1-10 Exceptions In PLINQ", "LISTING 1-10 Exceptions In PLINQ\LISTING 1-10 Exceptions In PLINQ.csproj", "{C6199D38-7586-4F8B-B3E4-59FC4EAB8890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6199D38-7586-4F8B-B3E4-59FC4EAB8890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6199D38-7586-4F8B-B3E4-59FC4EAB8890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6199D38-7586-4F8B-B3E4-59FC4EAB8890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6199D38-7586-4F8B-B3E4-59FC4EAB8890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {555C03E7-7D5F-4D56-A046-F27F2C3C9C7D}
+	EndGlobalSection
+EndGlobal
