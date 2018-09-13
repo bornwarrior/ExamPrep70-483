@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 1-13 Task Returning A Value", "LISTING 1-13 Task Returning A Value\LISTING 1-13 Task Returning A Value.csproj", "{461A4827-80A2-4159-BFA6-E0EEBE98DAEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461A4827-80A2-4159-BFA6-E0EEBE98DAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461A4827-80A2-4159-BFA6-E0EEBE98DAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461A4827-80A2-4159-BFA6-E0EEBE98DAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461A4827-80A2-4159-BFA6-E0EEBE98DAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C58DA98-4826-4E17-B1A4-30CA376603DA}
+	EndGlobalSection
+EndGlobal
