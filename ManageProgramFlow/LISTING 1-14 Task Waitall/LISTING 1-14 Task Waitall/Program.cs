@@ -22,7 +22,7 @@ namespace LISTING_1_14_Task_Waitall
             Task[] Tasks = new Task[taskCount];
             for (int i = 0; i < taskCount; i++)
             {
-                int taskNum = i;
+                int taskNum = i; //cash i value to pass correct value to DoWork
                 Tasks[i] = Task.Run(() => DoWork(taskNum));
             }
             Task.WaitAll(Tasks);
